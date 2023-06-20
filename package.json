@@ -1,6 +1,6 @@
 {
   "name": "@gentifly/exceptions",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Exceptions instance used by Gentifly.",
   "license": "MIT",
   "type": "commonjs",
